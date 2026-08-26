@@ -7,14 +7,16 @@ sprite instead of generating one.
 
 > **Browse it on any device:** **https://eturner58.github.io/game-assets/**
 >
-> The usable art is committed here, not just catalogued. 60,679 Kenney files
-> (CC0) plus 6,691 sliced tiles are in the repo, so a clone — or the Pages site
-> above — gives you the actual pixels, not only the index.
+> The art is committed here, not just catalogued: **78,121 files, 523 MB** of
+> CC0 Kenney work — 2D, UI, Icons, Audio, 6,691 sliced tiles, and the 3D kits in
+> glTF/GLB form. A clone, or the Pages site above, gives you the actual pixels
+> and meshes, not only the index.
 >
-> **Two things are deliberately not here.** Kenney's 3D kits, Archive and Early
-> access (669 MB of FBX/OBJ you cannot use in a canvas game), and **all LimeZu
-> art** — its licence forbids redistribution, so only its metadata ships. Both
-> are recoverable locally; see [Rehydrating the rest](#rehydrating-the-rest).
+>
+> **What is not here.** Kenney's Archive and Early access sections; the five
+> redundant 3D formats (`.fbx`/`.obj`/`.dae`/`.stl`/`.mtl` — the same models
+> again, 409 MB); and **all LimeZu art**, whose licence forbids redistribution,
+> so only its metadata ships. See [Rehydrating the rest](#rehydrating-the-rest).
 
 ---
 
@@ -39,15 +41,20 @@ sprite instead of generating one.
 | Section | Packs | Files | Size | Worth it? |
 |---|---|---|---|---|
 | 2D assets | 156 | 42,879 | 255 MB | **The main event** |
-| 3D assets | 54 | 28,457 | 606 MB | FBX/GLB/OBJ — useless for 2D canvas games |
+| 3D assets | 54 | 28,457 | 606 MB | glTF/GLB published (Three.js-ready); other formats local |
 | Icons | 8 | 9,744 | 12 MB | Input prompts, UI glyphs — excellent |
 | UI assets | 10 | 6,566 | 8 MB | Buttons, panels, bars |
 | Audio | 16 | 1,319 | 27 MB | SFX + music loops, .ogg |
 | Archive | 16 | 1,308 | 53 MB | Superseded packs, mostly still zipped |
 | Other / Goodies / Early access | 9 | 516 | 23 MB | Fonts, samples, wallpapers |
 
-The 3D section is 59% of the bundle's weight and near-zero use for single-file
-HTML games. It is catalogued but scored `usefulness: 1`.
+Kenney ships every 3D model in six formats. Only glTF/GLB loads in a web engine,
+so that is what is published (4,975 `.glb` + 4,850 textures + 232 `.gltf`/`.bin`);
+the other five formats are 409 MB of duplication and stay local.
+
+**Note on `usefulness`:** the 1–5 score answers "how useful for a **2D browser**
+prototype", so all 54 3D packs score 1. That is correct for the question asked and
+misleading for Three.js work — filter 3D packs by `section`, not by `usefulness`.
 
 ### LimeZu "Modern Interiors" — PAID, metadata only
 
@@ -124,13 +131,12 @@ and counts per sheet. The tiles are committed, and also regenerable from source.
 
 ## Rehydrating the rest
 
-The 2D art is committed. Two things are not, and need restoring locally:
+Most of the art is committed. These need restoring locally:
 
-1. **Kenney 3D / Archive / Early access** — the 2D art is already in this repo; only
-   these sections were left out. Get *Game Assets All-in-1* (v3.7.0 is what this
-   catalogue was built from) from [kenney.nl](https://kenney.nl/) or the Kenney
-   itch.io page and extract over `Games/assets/kenney/` so paths match the
-   catalogue's `path` field. CC0.
+1. **Kenney Archive / Early access, and the non-glTF 3D formats** — everything else
+   is already in this repo. Get *Game Assets All-in-1* (v3.7.0 is what this catalogue
+   was built from) from [kenney.nl](https://kenney.nl/) or the Kenney itch.io page and
+   extract over `Games/assets/kenney/` so paths match the catalogue's `path` field. CC0.
 2. **LimeZu** — a paid pack from
    [limezu.itch.io/moderninteriors](https://limezu.itch.io/moderninteriors). Restore
    from your own purchase to `Games/Last Take/assets/`. Do not redistribute it.
@@ -166,7 +172,7 @@ Games/assets/
 │   ├── files_limezu.jsonl   LimeZu, 53,535 rows
 │   ├── previews/            253 pack thumbnails (CC0)
 │   └── *.py                 the generators
-├── kenney/                  ← 2D/UI/Icons/Audio committed; 3D+Archive local only
+├── kenney/                  ← 2D/UI/Icons/Audio + 3D as glTF/GLB committed
 ├── sliced/                  ← committed (6,691 tiles)
 └── _source-zips/            ← NOT committed (800 MB of originals)
 ```

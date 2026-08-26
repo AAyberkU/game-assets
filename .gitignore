@@ -66,3 +66,13 @@ kenney/Readme.html
 
 # Windows internet shortcuts from the bundle
 *.url
+
+# ── Exception: four packs ship NO web-loadable format ──
+# The Animated Characters packs have no .glb and no .gltf -- only .fbx.
+# Without these their published form is textures with no models at all,
+# which is worse than absent. 74 files / 16.9 MB. Negations must follow
+# the exclusion above to take effect.
+!kenney/3D assets/Animated Characters Bundle/**/*.fbx
+!kenney/3D assets/Animated Characters Protagonists/**/*.fbx
+!kenney/3D assets/Animated Characters Retro/**/*.fbx
+!kenney/3D assets/Animated Characters Survivors/**/*.fbx
