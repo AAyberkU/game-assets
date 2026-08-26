@@ -1,0 +1,75 @@
+# ─────────────────────────────────────────────────────────────
+# This repo ships the CATALOG, not the art.
+#
+# The actual asset binaries (~1.5 GB, 145k files) live only on
+# local machines. This repo carries the machine-readable index
+# so any Claude session can know exactly what art exists, where
+# it lives, and what it looks like — without cloning a gigabyte.
+#
+# To rehydrate the art locally, see README.md.
+# ─────────────────────────────────────────────────────────────
+
+# Kenney bundle — CC0, but 1.03 GB / 90,789 files. Not pushed.
+kenney/
+
+# Original installer + bundle archives (~800 MB). Not pushed.
+_source-zips/
+
+# LimeZu "Modern Interiors" — PAID asset. Its licence explicitly
+# forbids redistribution ("YOU CAN'T: Resell or distribute the
+# asset to others"). Metadata is catalogued; art must never be
+# committed here. These rules are a hard safety net.
+modern-interiors/
+limezu/
+**/moderninteriors-win/
+**/Modern_Interiors_RPG_Maker_Version/
+**/Modern_Interiors_Free_v2.2/
+
+# Sliced output is regenerable from the source sheets — not pushed.
+sliced/
+
+# ── Belt-and-braces: no raw media of any kind outside catalog/previews ──
+*.zip
+*.rar
+*.7z
+*.exe
+*.AppImage
+*.fbx
+*.obj
+*.mtl
+*.glb
+*.gltf
+*.stl
+*.dae
+*.blend
+*.ogg
+*.wav
+*.mp3
+*.flac
+*.psd
+*.ai
+*.eps
+*.swf
+*.pdf
+
+# Images are allowed ONLY under catalog/previews/ (CC0 Kenney previews).
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+!catalog/previews/**/*.png
+
+# ── OS / editor metadata ──
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+*~
+
+# ── Claude session state ──
+.claude/
+scratchpad/
+*.tmp
+*.log

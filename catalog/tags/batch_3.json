@@ -1,0 +1,1049 @@
+[
+ {
+  "id": "2D assets/Abstract Platformer",
+  "seen": true,
+  "description": "Colorful flat vector platform tiles, blob enemies, flowers, arrows and UI icons on blue background.",
+  "best_for": "Quick prototype for a colorful 2D platformer with simple geometric enemies and terrain.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "bright saturated primaries",
+  "genres": [
+   "platformer",
+   "puzzle"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "enemies",
+   "characters",
+   "items",
+   "ui"
+  ],
+  "tags": [
+   "abstract",
+   "geometric"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Background Elements Remastered",
+  "seen": true,
+  "description": "Flat vector parallax scenery: pine trees, clouds, hills, houses, castles and moon phases.",
+  "best_for": "Building layered parallax backgrounds for platformer or side-scrolling arcade games.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "bright flat pastel tones",
+  "genres": [
+   "platformer",
+   "arcade"
+  ],
+  "subjects": [
+   "nature",
+   "foliage",
+   "buildings",
+   "backgrounds",
+   "terrain"
+  ],
+  "tags": [
+   "parallax",
+   "scenery"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Character Pack",
+  "seen": true,
+  "description": "Single flat-vector mascot character with swappable hair, shirts, pants and shoe color parts.",
+  "best_for": "Building a customizable player avatar for a casual side-view or top-down game.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "warm red teal skin tones",
+  "genres": [
+   "platformer",
+   "rpg",
+   "simulation"
+  ],
+  "subjects": [
+   "characters"
+  ],
+  "tags": [
+   "customizable",
+   "mascot"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Donuts",
+  "seen": true,
+  "description": "Flat vector donut icons in multiple glaze colors plus sprinkle and crumb decorations.",
+  "best_for": "Food-themed match-3, cooking sim, or bakery-decorating mini-game icons.",
+  "perspective": "none",
+  "style": "vector-flat",
+  "color": "pastel pink brown cream",
+  "genres": [
+   "puzzle",
+   "simulation",
+   "arcade"
+  ],
+  "subjects": [
+   "food",
+   "items"
+  ],
+  "tags": [
+   "donut",
+   "bakery"
+  ],
+  "usefulness": 2
+ },
+ {
+  "id": "2D assets/Foliage Sprites",
+  "seen": true,
+  "description": "White silhouette vector grass, leaves, maple leaves, pine needles and snowflake shapes.",
+  "best_for": "Recolorable ground-cover and plant decoration for any 2D nature scene.",
+  "perspective": "none",
+  "style": "monochrome",
+  "color": "white silhouettes only",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "foliage",
+   "nature",
+   "terrain"
+  ],
+  "tags": [
+   "silhouette",
+   "recolorable"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Holiday Pack 2016",
+  "seen": true,
+  "description": "Christmas-themed hex board tiles, gift boxes, decorated trees, snowy ground tiles and Santa sprite.",
+  "best_for": "Seasonal holiday board game or festive platformer level dressing.",
+  "perspective": "hexagonal",
+  "style": "vector-flat",
+  "color": "festive red green white gold",
+  "genres": [
+   "board-game",
+   "platformer",
+   "puzzle"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "characters",
+   "items",
+   "holiday"
+  ],
+  "tags": [
+   "christmas",
+   "seasonal"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Isometric Miniature Library",
+  "seen": true,
+  "description": "Rendered isometric wooden library furniture: bookshelves, tables, benches, lamps, arches on tan background.",
+  "best_for": "Furnishing an isometric interior scene for an RPG or sim game.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "warm tan wood browns",
+  "genres": [
+   "rpg",
+   "simulation"
+  ],
+  "subjects": [
+   "furniture",
+   "buildings",
+   "props"
+  ],
+  "tags": [
+   "library",
+   "interior"
+  ],
+  "usefulness": 2
+ },
+ {
+  "id": "2D assets/Isometric Nature",
+  "seen": true,
+  "description": "Faceted low-poly isometric trees, buildings, ground tiles, water pools and stone walls.",
+  "best_for": "Isometric city-builder or simulation game terrain and scenery.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "green tan white palette",
+  "genres": [
+   "city-builder",
+   "simulation",
+   "strategy",
+   "sandbox"
+  ],
+  "subjects": [
+   "nature",
+   "foliage",
+   "buildings",
+   "terrain",
+   "water"
+  ],
+  "tags": [
+   "low-poly"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Isometric Tower Defense",
+  "seen": true,
+  "description": "Blocky isometric ground tiles, path tiles, crystal gems and a stacked stone tower.",
+  "best_for": "Isometric tower-defense map tiles and turret pieces.",
+  "perspective": "isometric",
+  "style": "pixel-art",
+  "color": "muted green tan gray",
+  "genres": [
+   "tower-defense",
+   "strategy"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "buildings",
+   "items"
+  ],
+  "tags": [],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Letter Tiles",
+  "seen": true,
+  "description": "Textured wood, marble, stone and colored Scrabble-style letter tiles A through H shown.",
+  "best_for": "Word games, spelling puzzles or Scrabble-style board game pieces.",
+  "perspective": "ui",
+  "style": "vector-flat",
+  "color": "browns golds grays blues",
+  "genres": [
+   "puzzle",
+   "board-game"
+  ],
+  "subjects": [
+   "tiles",
+   "fonts",
+   "ui"
+  ],
+  "tags": [
+   "scrabble",
+   "letters",
+   "wordgame"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Minimap Pack",
+  "seen": true,
+  "description": "Tiny 8x8 pixel minimap icons: walls, floors, doors, skulls, arrows in three color themes.",
+  "best_for": "Dungeon or roguelike minimap overlay icons.",
+  "perspective": "top-down",
+  "style": "pixel-art",
+  "color": "muted grays with accent colors",
+  "genres": [
+   "rpg",
+   "roguelike"
+  ],
+  "subjects": [
+   "ui",
+   "icons",
+   "tiles"
+  ],
+  "tags": [
+   "minimap",
+   "dungeon"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Pattern Pack",
+  "seen": true,
+  "description": "Black and white geometric tile patterns: stripes, chevrons, brick, dots, diamonds, waves.",
+  "best_for": "Seamless background textures or decorative fill patterns for any game UI.",
+  "perspective": "none",
+  "style": "monochrome",
+  "color": "black and white only",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "backgrounds",
+   "abstract",
+   "tiles"
+  ],
+  "tags": [
+   "pattern",
+   "texture",
+   "seamless"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Pico-8 Platformer",
+  "seen": true,
+  "description": "8-bit pixel platformer tileset with characters, enemies, numbers and icons in PICO-8 palette.",
+  "best_for": "Retro 8-bit style platformer prototype with a limited color palette.",
+  "perspective": "side-view",
+  "style": "pixel-art",
+  "color": "muted retro pink orange gray",
+  "genres": [
+   "platformer",
+   "arcade",
+   "roguelike"
+  ],
+  "subjects": [
+   "characters",
+   "enemies",
+   "tiles",
+   "terrain",
+   "items",
+   "fonts"
+  ],
+  "tags": [
+   "pico-8",
+   "retro",
+   "8-bit"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Pixel Platformer Food Expansion",
+  "seen": true,
+  "description": "Pixel-art food sprites: bacon, cheese, donuts, drinks, burgers, pizza plus small tile blocks.",
+  "best_for": "Food-themed decoration or collectible items expansion for a pixel platformer.",
+  "perspective": "side-view",
+  "style": "pixel-art",
+  "color": "warm pastel pink brown orange",
+  "genres": [
+   "platformer"
+  ],
+  "subjects": [
+   "food",
+   "items",
+   "tiles"
+  ],
+  "tags": [
+   "expansion-pack"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Platformer Assets Buildings",
+  "seen": true,
+  "description": "Flat vector building parts: brick and stone walls, doors, windows, awnings, shop signs.",
+  "best_for": "Constructing town or village building facades in a side-view platformer.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "tan blue-gray gold accents",
+  "genres": [
+   "platformer",
+   "rpg"
+  ],
+  "subjects": [
+   "buildings",
+   "tiles",
+   "props"
+  ],
+  "tags": [],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Platformer Assets Pixel",
+  "seen": true,
+  "description": "Large pixel-art platformer scene: slime enemies, ghosts, water, trees, house, coins, blocks.",
+  "best_for": "Full-featured pixel-art platformer prototype needing characters, enemies and terrain.",
+  "perspective": "side-view",
+  "style": "pixel-art",
+  "color": "bright pastel green blue tan",
+  "genres": [
+   "platformer"
+  ],
+  "subjects": [
+   "characters",
+   "enemies",
+   "terrain",
+   "tiles",
+   "items",
+   "buildings"
+  ],
+  "tags": [],
+  "usefulness": 5
+ },
+ {
+  "id": "2D assets/Platformer Pack Medieval",
+  "seen": true,
+  "description": "Flat vector medieval stone wall tiles, wooden doors, arched windows and colored banners.",
+  "best_for": "Medieval castle or village level art for a side-view platformer.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "stone gray gold green flags",
+  "genres": [
+   "platformer",
+   "rpg"
+  ],
+  "subjects": [
+   "buildings",
+   "tiles",
+   "terrain",
+   "props",
+   "medieval"
+  ],
+  "tags": [],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Puzzle Pack 2",
+  "seen": true,
+  "description": "Flat vector UI shapes: gems, stars, hearts, circular buttons and D-pad icons in 8 colors.",
+  "best_for": "Match-3 puzzle pieces or colorful UI buttons and icons.",
+  "perspective": "ui",
+  "style": "vector-flat",
+  "color": "bright saturated multi-color set",
+  "genres": [
+   "puzzle",
+   "board-game",
+   "arcade"
+  ],
+  "subjects": [
+   "ui",
+   "icons",
+   "items"
+  ],
+  "tags": [
+   "match-3",
+   "buttons"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Racing Pack",
+  "seen": true,
+  "description": "Top-down racing track tiles, roads, barriers, banners and colored cars, boats, ATVs.",
+  "best_for": "Top-down arcade racing game tracks and vehicle sprites.",
+  "perspective": "top-down",
+  "style": "vector-flat",
+  "color": "bright tan green multi-color cars",
+  "genres": [
+   "racing"
+  ],
+  "subjects": [
+   "vehicles",
+   "roads",
+   "tiles",
+   "terrain"
+  ],
+  "tags": [],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Roguelike Base Pack",
+  "seen": true,
+  "description": "Dense top-down dungeon tileset: walls, floors, characters, trees, chests packed on few sheets.",
+  "best_for": "Base tileset for a top-down roguelike, needs slicing from spritesheets.",
+  "perspective": "top-down",
+  "style": "pixel-art",
+  "color": "earthy green brown gray",
+  "genres": [
+   "roguelike",
+   "rpg"
+  ],
+  "subjects": [
+   "characters",
+   "enemies",
+   "tiles",
+   "terrain",
+   "items",
+   "nature"
+  ],
+  "tags": [
+   "dungeon"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Rune Pack",
+  "seen": true,
+  "description": "Gray stone rune tiles with runic alphabet symbols in six shapes and three colors.",
+  "best_for": "Fantasy RPG crafting icons, spell runes or puzzle symbol sets.",
+  "perspective": "none",
+  "style": "vector-flat",
+  "color": "muted blue-gray stone tones",
+  "genres": [
+   "rpg",
+   "puzzle",
+   "card-game"
+  ],
+  "subjects": [
+   "items",
+   "icons",
+   "fonts",
+   "fantasy",
+   "medieval"
+  ],
+  "tags": [
+   "runes"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Simplified Platformer Pack",
+  "seen": true,
+  "description": "Minimalist flat vector platform tiles, gems, keys, hearts and a cube-shaped mascot character.",
+  "best_for": "Fast, minimalist 2D platformer prototype with simple geometric visuals.",
+  "perspective": "side-view",
+  "style": "vector-flat",
+  "color": "bright pastel primary colors",
+  "genres": [
+   "platformer"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "characters",
+   "items",
+   "ui"
+  ],
+  "tags": [
+   "minimalist"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Smoke Particles",
+  "seen": true,
+  "description": "Four soft painterly particle textures: black smoke, orange fire, green smoke, white cloud.",
+  "best_for": "Explosion, fire or smoke visual effects overlays for any game.",
+  "perspective": "none",
+  "style": "hand-drawn",
+  "color": "multi-color smoke black orange green",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "effects",
+   "particles"
+  ],
+  "tags": [
+   "smoke",
+   "fire",
+   "vfx"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "2D assets/Tank Pack",
+  "seen": true,
+  "description": "Top-down vector tanks in three colors plus health bars, bullets and explosion icons.",
+  "best_for": "Top-down tank shooter or artillery game vehicles and combat UI.",
+  "perspective": "top-down",
+  "style": "vector-flat",
+  "color": "military green navy tan",
+  "genres": [
+   "shooter",
+   "strategy",
+   "tower-defense"
+  ],
+  "subjects": [
+   "vehicles",
+   "ui",
+   "icons",
+   "effects",
+   "weapons"
+  ],
+  "tags": [
+   "tank",
+   "military"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Tiny Town",
+  "seen": true,
+  "description": "Pixel-art top-down village tileset: grass, dirt, stone walls, doors, trees, chests, tools.",
+  "best_for": "Small top-down village or farming sim map tileset.",
+  "perspective": "top-down",
+  "style": "pixel-art",
+  "color": "earthy green brown gray",
+  "genres": [
+   "rpg",
+   "simulation",
+   "city-builder",
+   "sandbox"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "buildings",
+   "nature",
+   "items"
+  ],
+  "tags": [
+   "village"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "2D assets/Tower Defense",
+  "seen": true,
+  "description": "Top-down vector path and ground tiles, turret icons, currency numbers and UI symbols.",
+  "best_for": "Top-down tower-defense map tiles and HUD icons.",
+  "perspective": "top-down",
+  "style": "vector-flat",
+  "color": "green brown gray military",
+  "genres": [
+   "tower-defense",
+   "strategy"
+  ],
+  "subjects": [
+   "tiles",
+   "terrain",
+   "buildings",
+   "ui",
+   "icons",
+   "weapons"
+  ],
+  "tags": [],
+  "usefulness": 4
+ },
+ {
+  "id": "3D assets/Animated Characters Retro",
+  "seen": true,
+  "description": "Low-poly 3D rendered humanoid models: a zombie and a normal person, each two skins.",
+  "best_for": "3D game character models needing a game engine, not raster sprites.",
+  "perspective": "none",
+  "style": "3d-render",
+  "color": "muted green tan gray",
+  "genres": [
+   "rpg",
+   "horror",
+   "survival"
+  ],
+  "subjects": [
+   "characters",
+   "enemies"
+  ],
+  "tags": [
+   "3d-model",
+   "zombie"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Car Kit",
+  "seen": true,
+  "description": "Low-poly 3D car, truck, tractor and astronaut-kart models on a checkered floor render.",
+  "best_for": "3D racing or driving game vehicle models in a 3D engine.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "bright saturated toy colors",
+  "genres": [
+   "racing",
+   "arcade"
+  ],
+  "subjects": [
+   "vehicles",
+   "props"
+  ],
+  "tags": [
+   "3d-model",
+   "low-poly"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Coaster Kit",
+  "seen": true,
+  "description": "Low-poly 3D amusement park models: roller coaster track, kiosks, benches, trees, carts.",
+  "best_for": "3D theme-park simulation or tycoon game building set.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "muted pastel orange blue tan",
+  "genres": [
+   "simulation",
+   "city-builder",
+   "sandbox"
+  ],
+  "subjects": [
+   "buildings",
+   "props",
+   "vehicles",
+   "terrain"
+  ],
+  "tags": [
+   "3d-model",
+   "theme-park"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Graveyard Kit",
+  "seen": true,
+  "description": "Low-poly 3D graveyard props: tombstones, fences, mausoleum, pumpkins, ghost and scarecrow characters.",
+  "best_for": "3D horror or Halloween-themed scene decoration in a 3D engine.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "muted purple-gray orange accents",
+  "genres": [
+   "horror",
+   "survival",
+   "rpg"
+  ],
+  "subjects": [
+   "props",
+   "buildings",
+   "characters",
+   "nature",
+   "holiday"
+  ],
+  "tags": [
+   "3d-model",
+   "halloween"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Mini Characters",
+  "seen": true,
+  "description": "Low-poly 3D chibi people models including wheelchairs, hats and accessory attachments.",
+  "best_for": "3D casual game NPC or player character models.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "bright mixed blue orange purple",
+  "genres": [
+   "rpg",
+   "simulation",
+   "sandbox"
+  ],
+  "subjects": [
+   "characters",
+   "props"
+  ],
+  "tags": [
+   "3d-model",
+   "chibi"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Modular Buildings",
+  "seen": true,
+  "description": "Low-poly 3D modular city building pieces: walls, roofs, towers in tan and blue.",
+  "best_for": "3D city-builder or urban simulation modular architecture.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "tan beige blue accents",
+  "genres": [
+   "city-builder",
+   "simulation",
+   "strategy"
+  ],
+  "subjects": [
+   "buildings",
+   "props",
+   "terrain"
+  ],
+  "tags": [
+   "3d-model",
+   "modular"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Pirate Kit",
+  "seen": true,
+  "description": "Low-poly 3D pirate ships, islands, palm trees, forts and castle towers.",
+  "best_for": "3D pirate-themed adventure or strategy game scenery.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "earthy green brown white sails",
+  "genres": [
+   "strategy",
+   "simulation",
+   "sandbox"
+  ],
+  "subjects": [
+   "ships",
+   "buildings",
+   "nature",
+   "props",
+   "pirate"
+  ],
+  "tags": [
+   "3d-model"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Road Pack",
+  "seen": true,
+  "description": "Low-poly 3D modular road segments, intersections and curves in gray with green edges.",
+  "best_for": "3D racing or city-builder road network construction.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "muted gray green blue accents",
+  "genres": [
+   "racing",
+   "city-builder",
+   "simulation"
+  ],
+  "subjects": [
+   "roads",
+   "terrain",
+   "props"
+  ],
+  "tags": [
+   "3d-model",
+   "modular"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "3D assets/Toy Car Kit",
+  "seen": true,
+  "description": "Low-poly 3D toy vehicles, cones, dice, arches and fences in bright toy colors.",
+  "best_for": "3D toy-themed racing or arcade game vehicle models.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "bright saturated toy colors",
+  "genres": [
+   "racing",
+   "arcade",
+   "sandbox"
+  ],
+  "subjects": [
+   "vehicles",
+   "props",
+   "terrain"
+  ],
+  "tags": [
+   "3d-model",
+   "toy"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "Archive/Isometric Road Assets",
+  "seen": false,
+  "description": "Archived zip-only pack with no preview image; name suggests isometric road tile assets.",
+  "best_for": "Unknown until extracted; likely isometric road tiles for a city or racing game.",
+  "perspective": "isometric",
+  "style": "pixel-art",
+  "color": "unknown, likely muted grays",
+  "genres": [
+   "racing",
+   "city-builder"
+  ],
+  "subjects": [
+   "roads",
+   "tiles"
+  ],
+  "tags": [
+   "archived",
+   "unverified"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "Archive/Platformer Assets Pixel",
+  "seen": false,
+  "description": "Archived zip-only duplicate of the Platformer Assets Pixel set; no preview available.",
+  "best_for": "Same pixel-art platformer use case as the live Platformer Assets Pixel pack once extracted.",
+  "perspective": "side-view",
+  "style": "pixel-art",
+  "color": "unknown, likely bright pastel",
+  "genres": [
+   "platformer"
+  ],
+  "subjects": [
+   "characters",
+   "tiles",
+   "terrain"
+  ],
+  "tags": [
+   "archived",
+   "duplicate"
+  ],
+  "usefulness": 2
+ },
+ {
+  "id": "Archive/Tower Defense Assets",
+  "seen": false,
+  "description": "Archived zip-only duplicate of the Tower Defense set; no preview image available.",
+  "best_for": "Same top-down tower-defense use case as the live Tower Defense pack once extracted.",
+  "perspective": "top-down",
+  "style": "vector-flat",
+  "color": "unknown, likely green brown gray",
+  "genres": [
+   "tower-defense",
+   "strategy"
+  ],
+  "subjects": [
+   "tiles",
+   "buildings"
+  ],
+  "tags": [
+   "archived",
+   "duplicate"
+  ],
+  "usefulness": 2
+ },
+ {
+  "id": "Audio/Interface Sounds",
+  "seen": true,
+  "description": "Generic promo icon shown (speaker and cursor); pack itself is 100 UI interface sound effects.",
+  "best_for": "Click, hover and menu sound effects for any game's UI.",
+  "perspective": "none",
+  "style": "vector-flat",
+  "color": "teal white flat icon colors",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "sound",
+   "ui"
+  ],
+  "tags": [
+   "audio",
+   "sfx"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "Audio/Sci-Fi Sounds",
+  "seen": true,
+  "description": "Generic promo icon shown (speaker and UFO); pack itself is 73 sci-fi sound effects.",
+  "best_for": "Laser, spaceship and sci-fi UI sound effects for a space game.",
+  "perspective": "none",
+  "style": "vector-flat",
+  "color": "teal white flat icon colors",
+  "genres": [
+   "space",
+   "shooter"
+  ],
+  "subjects": [
+   "sound",
+   "sci-fi"
+  ],
+  "tags": [
+   "audio",
+   "sfx"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "Early access/Medieval Weapons",
+  "seen": true,
+  "description": "Low-poly 3D medieval weapon models: axes, hammers, shields, spears and swords.",
+  "best_for": "3D medieval combat game weapon props in a 3D engine.",
+  "perspective": "isometric",
+  "style": "3d-render",
+  "color": "muted purple orange wood brown",
+  "genres": [
+   "rpg",
+   "strategy"
+  ],
+  "subjects": [
+   "weapons",
+   "items",
+   "medieval",
+   "fantasy"
+  ],
+  "tags": [
+   "3d-model",
+   "early-access"
+  ],
+  "usefulness": 1
+ },
+ {
+  "id": "Icons/Board Game Info",
+  "seen": true,
+  "description": "Black and white pictogram icons for player count, playtime, age rating and difficulty.",
+  "best_for": "Board game box or app info icons showing rules at a glance.",
+  "perspective": "ui",
+  "style": "line-art",
+  "color": "black white red accents",
+  "genres": [
+   "board-game"
+  ],
+  "subjects": [
+   "ui",
+   "icons"
+  ],
+  "tags": [
+   "icon-set",
+   "boxinfo"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "Icons/Input Prompts Pixel 1-Bit",
+  "seen": true,
+  "description": "White 1-bit pixel icons for keyboard keys, gamepad buttons and mouse controls on blue.",
+  "best_for": "Control prompt icons for keyboard, mouse and gamepad input hints.",
+  "perspective": "ui",
+  "style": "pixel-art",
+  "color": "monochrome white on blue",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "ui",
+   "icons"
+  ],
+  "tags": [
+   "input-prompts",
+   "1-bit",
+   "keyboard",
+   "gamepad"
+  ],
+  "usefulness": 4
+ },
+ {
+  "id": "UI assets/Cursor Pixel Pack",
+  "seen": true,
+  "description": "Pixel-art cursor and UI icons: arrows, resize handles, hands, hourglass, lock in black-white.",
+  "best_for": "Custom mouse cursors and pointer-state icons for a pixel-art UI.",
+  "perspective": "ui",
+  "style": "pixel-art",
+  "color": "monochrome black and white",
+  "genres": [
+   "any"
+  ],
+  "subjects": [
+   "ui",
+   "icons"
+  ],
+  "tags": [
+   "cursor"
+  ],
+  "usefulness": 3
+ },
+ {
+  "id": "UI assets/UI Pack - Pixel Adventure",
+  "seen": true,
+  "description": "Pixel-art wood-and-metal UI panels, frames, buttons, progress bars in two color variants.",
+  "best_for": "Full UI kit for a fantasy or adventure-themed pixel game's menus and HUD.",
+  "perspective": "ui",
+  "style": "pixel-art",
+  "color": "warm brown blue metal tones",
+  "genres": [
+   "rpg",
+   "platformer"
+  ],
+  "subjects": [
+   "ui",
+   "icons",
+   "props"
+  ],
+  "tags": [
+   "ui-kit",
+   "frames"
+  ],
+  "usefulness": 5
+ }
+]

@@ -1,0 +1,2023 @@
+[
+ {
+  "id": "1_Interiors/16x16",
+  "pack": "16x16",
+  "section": "1_Interiors",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16",
+  "preview": null,
+  "files": 16074,
+  "bytes": 17750851,
+  "kinds": {
+   "sprite": 16054,
+   "sheet": 20
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "Old stuff",
+   "Room_Builder_subfiles",
+   "Theme_Sorter",
+   "Theme_Sorter_Black_Shadow",
+   "Theme_Sorter_Black_Shadow_Singles",
+   "Theme_Sorter_Shadowless",
+   "Theme_Sorter_Shadowless_Singles",
+   "Theme_Sorter_Singles"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_1.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_10.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_11.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_12.png",
+    "width": 160,
+    "height": 208
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_13.png",
+    "width": 160,
+    "height": 224
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_14.png",
+    "width": 160,
+    "height": 208
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_15.png",
+    "width": 176,
+    "height": 224
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_16.png",
+    "width": 192,
+    "height": 224
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_17.png",
+    "width": 176,
+    "height": 224
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_18.png",
+    "width": 192,
+    "height": 256
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_19.png",
+    "width": 160,
+    "height": 192
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_2.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_3.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_4.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_5.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_6.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_7.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_8.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tileset_16x16_9.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/16x16/Old stuff/Tilesets_16x16.png",
+    "width": 640,
+    "height": 1120
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "16x32",
+    5368
+   ],
+   [
+    "16x16",
+    3733
+   ],
+   [
+    "32x32",
+    2367
+   ],
+   [
+    "32x48",
+    1750
+   ],
+   [
+    "16x48",
+    1508
+   ],
+   [
+    "32x16",
+    560
+   ]
+  ]
+ },
+ {
+  "id": "1_Interiors/32x32",
+  "pack": "32x32",
+  "section": "1_Interiors",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32",
+  "preview": null,
+  "files": 16163,
+  "bytes": 23081634,
+  "kinds": {
+   "sprite": 16143,
+   "sheet": 20
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "Old_Stuff",
+   "Room_Bulder_subfiles_32x32",
+   "Theme_Sorter_32x32",
+   "Theme_Sorter_Black_Shadow_32x32",
+   "Theme_Sorter_Black_Shadow_Singles_32x32",
+   "Theme_Sorter_Shadowless_32x32",
+   "Theme_Sorter_Shadowless_Singles_32x32",
+   "Theme_Sorter_Singles_32x32"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_1.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_10.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_11.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_12.png",
+    "width": 320,
+    "height": 416
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_13.png",
+    "width": 320,
+    "height": 448
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_14.png",
+    "width": 320,
+    "height": 416
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_15.png",
+    "width": 352,
+    "height": 448
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_16.png",
+    "width": 384,
+    "height": 448
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_17.png",
+    "width": 352,
+    "height": 448
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_18.png",
+    "width": 384,
+    "height": 512
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_19.png",
+    "width": 320,
+    "height": 384
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_2.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_3.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_4.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_5.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_6.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_7.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_8.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tileset_32x32_9.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/32x32/Old_Stuff/Tilesets_32x32.png",
+    "width": 1280,
+    "height": 2240
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "32x32",
+    3242
+   ],
+   [
+    "32x64",
+    3020
+   ],
+   [
+    "32x48",
+    2260
+   ],
+   [
+    "64x64",
+    1713
+   ],
+   [
+    "64x96",
+    1004
+   ],
+   [
+    "32x80",
+    699
+   ]
+  ]
+ },
+ {
+  "id": "1_Interiors/48x48",
+  "pack": "48x48",
+  "section": "1_Interiors",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48",
+  "preview": null,
+  "files": 15989,
+  "bytes": 25740035,
+  "kinds": {
+   "sprite": 15969,
+   "sheet": 20
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "Old_Stuff",
+   "Room_Builder_subfiles_48x48",
+   "Theme_Sorter_48x48",
+   "Theme_Sorter_Black_Shadow_48x48",
+   "Theme_Sorter_Black_Shadow_Singles_48x48",
+   "Theme_Sorter_Shadowless_48x48",
+   "Theme_Sorter_Shadowless_Singles_48x48",
+   "Theme_Sorter_Singles_48x48"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_1.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_10.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_11.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_12.png",
+    "width": 480,
+    "height": 624
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_13.png",
+    "width": 480,
+    "height": 672
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_14.png",
+    "width": 480,
+    "height": 624
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_15.png",
+    "width": 528,
+    "height": 672
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_16.png",
+    "width": 576,
+    "height": 672
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_17.png",
+    "width": 528,
+    "height": 672
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_18.png",
+    "width": 576,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_19.png",
+    "width": 480,
+    "height": 576
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_2.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_3.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_4.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_5.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_6.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_7.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_8.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tileset_48x48_9.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/1_Interiors/48x48/Old_Stuff/Tilesets_48x48.png",
+    "width": 1920,
+    "height": 3360
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "48x48",
+    2660
+   ],
+   [
+    "48x80",
+    2654
+   ],
+   [
+    "48x96",
+    1909
+   ],
+   [
+    "96x96",
+    831
+   ],
+   [
+    "48x32",
+    797
+   ],
+   [
+    "48x128",
+    697
+   ]
+  ]
+ },
+ {
+  "id": "2_Characters/Character_Generator",
+  "pack": "Character_Generator",
+  "section": "2_Characters",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/2_Characters/Character_Generator",
+  "preview": null,
+  "files": 1631,
+  "bytes": 80798879,
+  "kinds": {
+   "data": 2,
+   "sprite": 1535,
+   "sheet": 1,
+   "other": 93
+  },
+  "formats": [
+   "ase",
+   "aseprite",
+   "png",
+   "txt",
+   "zip"
+  ],
+  "subfolders": [
+   "0_Premade_Characters",
+   "Accessories",
+   "Bodies",
+   "Bodies_kids",
+   "Books",
+   "Eyes",
+   "Eyes_kids",
+   "Hairstyles",
+   "Hairstyles_kids",
+   "Outfits",
+   "Outfits_kids",
+   "Smartphones"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/2_Characters/Character_Generator/Spritesheet_animations_GUIDE.png",
+    "width": 3708,
+    "height": 2624
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "1792x1312",
+    445
+   ],
+   [
+    "2688x1968",
+    445
+   ],
+   [
+    "896x656",
+    445
+   ],
+   [
+    "1152x384",
+    36
+   ],
+   [
+    "384x128",
+    36
+   ],
+   [
+    "768x256",
+    36
+   ]
+  ]
+ },
+ {
+  "id": "2_Characters/Old",
+  "pack": "Old",
+  "section": "2_Characters",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/2_Characters/Old",
+  "preview": null,
+  "files": 1075,
+  "bytes": 6957899,
+  "kinds": {
+   "sprite": 1072,
+   "other": 3
+  },
+  "formats": [
+   "gif",
+   "png"
+  ],
+  "subfolders": [
+   "Single_Characters_Legacy"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "1152x96",
+    140
+   ],
+   [
+    "384x32",
+    140
+   ],
+   [
+    "768x64",
+    140
+   ],
+   [
+    "128x64",
+    58
+   ],
+   [
+    "192x96",
+    58
+   ],
+   [
+    "64x32",
+    58
+   ]
+  ]
+ },
+ {
+  "id": "3_Animated_objects/16x16",
+  "pack": "16x16",
+  "section": "3_Animated_objects",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16",
+  "preview": null,
+  "files": 630,
+  "bytes": 1314706,
+  "kinds": {
+   "other": 319,
+   "sheet": 311
+  },
+  "formats": [
+   "gif",
+   "png"
+  ],
+  "subfolders": [
+   "gif",
+   "spritesheets"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/aniamted_haunted_mirror.png",
+    "width": 192,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Christmas_carousel.png",
+    "width": 256,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Christmas_chimney.png",
+    "width": 128,
+    "height": 48
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Christmas_jack_in_the_box.png",
+    "width": 192,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Christmas_snowball_globe.png",
+    "width": 128,
+    "height": 16
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Christmas_tree_lights.png",
+    "width": 192,
+    "height": 48
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_Shopping_Carts.png",
+    "width": 384,
+    "height": 384
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_TV_reportage.png",
+    "width": 1152,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_TV_reportage_hospital.png",
+    "width": 1152,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_TV_reportage_hospital_2.png",
+    "width": 1152,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_amplifier.png",
+    "width": 48,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_amplifier_big.png",
+    "width": 48,
+    "height": 48
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_blue_empty.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_blue_full.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_white_empty.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_white_full.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_whiteblue_empty.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_cabinet_whiteblue_full.png",
+    "width": 160,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_sink_new_2_3-10 loop.png",
+    "width": 448,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/16x16/spritesheets/animated_bathroom_sink_new_3-10 loop.png",
+    "width": 448,
+    "height": 32
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ },
+ {
+  "id": "3_Animated_objects/32x32",
+  "pack": "32x32",
+  "section": "3_Animated_objects",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32",
+  "preview": null,
+  "files": 621,
+  "bytes": 2000333,
+  "kinds": {
+   "other": 311,
+   "sheet": 310
+  },
+  "formats": [
+   "gif",
+   "png"
+  ],
+  "subfolders": [
+   "gif",
+   "spritesheets"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Christmas_carousel_32x32.png",
+    "width": 512,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Christmas_chimney_32x32.png",
+    "width": 256,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Christmas_jack_in_the_box_32x32.png",
+    "width": 384,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Christmas_snowball_globe_32x32.png",
+    "width": 256,
+    "height": 32
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Christmas_tree_lights_32x32.png",
+    "width": 384,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_Shopping_Carts_32x32.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_TV_reportage_32x32.png",
+    "width": 2304,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_TV_reportage_hospital_2_32x32.png",
+    "width": 2304,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_TV_reportage_hospital_32x32.png",
+    "width": 2304,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_amplifier_32x32.png",
+    "width": 96,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_amplifier_big_32x32.png",
+    "width": 96,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_blue_empty_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_blue_full_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_white_empty_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_white_full_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_whiteblue_empty_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_cabinet_whiteblue_full_32x32.png",
+    "width": 320,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_sink_2_new_3-10 loop_32x32.png",
+    "width": 896,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathroom_sink_new_3-10 loop_32x32.png",
+    "width": 896,
+    "height": 64
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/32x32/spritesheets/animated_bathtub_2_32x32.png",
+    "width": 256,
+    "height": 96
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ },
+ {
+  "id": "3_Animated_objects/48x48",
+  "pack": "48x48",
+  "section": "3_Animated_objects",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48",
+  "preview": null,
+  "files": 619,
+  "bytes": 3039800,
+  "kinds": {
+   "other": 310,
+   "sheet": 309
+  },
+  "formats": [
+   "gif",
+   "png"
+  ],
+  "subfolders": [
+   "gif",
+   "spritesheets"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Christmas_carousel_48x48.png",
+    "width": 768,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Christmas_chimney_48x48.png",
+    "width": 384,
+    "height": 144
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Christmas_jack_in_the_box_48x48.png",
+    "width": 576,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Christmas_snowball_globe_48x48.png",
+    "width": 384,
+    "height": 48
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Christmas_tree_lights_48x48.png",
+    "width": 576,
+    "height": 144
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_Shopping_Carts_48x48.png",
+    "width": 1152,
+    "height": 1152
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_TV_reportage_48x48.png",
+    "width": 3456,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_TV_reportage_hospital_2_48x48.png",
+    "width": 3456,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_TV_reportage_hospital_48x48.png",
+    "width": 3456,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_amplifier_48x48.png",
+    "width": 144,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_amplifier_big_48x48.png",
+    "width": 144,
+    "height": 144
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_blue_empty_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_blue_full_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_white_empty_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_white_full_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_whiteblue_empty_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_cabinet_whiteblue_full_48x48.png",
+    "width": 480,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_sink_2_new_3-10 loop_48x48.png",
+    "width": 1344,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathroom_sink_new_3-10 loop_48x48.png",
+    "width": 1344,
+    "height": 96
+   },
+   {
+    "path": "last-take-assets/moderninteriors-win/3_Animated_objects/48x48/spritesheets/animated_bathtub_2_48x48.png",
+    "width": 384,
+    "height": 144
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ },
+ {
+  "id": "4_User_Interface_Elements/Animated_Spritesheets",
+  "pack": "Animated_Spritesheets",
+  "section": "4_User_Interface_Elements",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/4_User_Interface_Elements/Animated_Spritesheets",
+  "preview": null,
+  "files": 24,
+  "bytes": 41538,
+  "kinds": {
+   "other": 24
+  },
+  "formats": [
+   "gif"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ },
+ {
+  "id": "4_User_Interface_Elements/_loose",
+  "pack": "_loose",
+  "section": "4_User_Interface_Elements",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/4_User_Interface_Elements",
+  "preview": null,
+  "files": 6,
+  "bytes": 156919,
+  "kinds": {
+   "sprite": 6
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "160x160",
+    1
+   ],
+   [
+    "288x256",
+    1
+   ],
+   [
+    "320x320",
+    1
+   ],
+   [
+    "480x480",
+    1
+   ],
+   [
+    "576x512",
+    1
+   ],
+   [
+    "864x768",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Condominium_Designs",
+  "pack": "Condominium_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Condominium_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Condominium_Designs/16x16/Condominium_Design_2_preview.png",
+  "files": 18,
+  "bytes": 134960,
+  "kinds": {
+   "sprite": 12,
+   "preview": 6
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "224x176",
+    2
+   ],
+   [
+    "224x96",
+    2
+   ],
+   [
+    "448x192",
+    2
+   ],
+   [
+    "448x352",
+    2
+   ],
+   [
+    "672x288",
+    2
+   ],
+   [
+    "672x528",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Generic_Home_Designs",
+  "pack": "Generic_Home_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Generic_Home_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Generic_Home_Designs/16x16/Generic_Home_1_preview_16x16.png",
+  "files": 9,
+  "bytes": 182706,
+  "kinds": {
+   "sprite": 6,
+   "preview": 3
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "224x214",
+    2
+   ],
+   [
+    "448x428",
+    2
+   ],
+   [
+    "672x642",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Gym_Designs",
+  "pack": "Gym_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Gym_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Gym_Designs/16x16/Gym_2_preview.png",
+  "files": 18,
+  "bytes": 349327,
+  "kinds": {
+   "sprite": 12,
+   "preview": 6
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "192x112",
+    2
+   ],
+   [
+    "304x240",
+    2
+   ],
+   [
+    "384x224",
+    2
+   ],
+   [
+    "576x336",
+    2
+   ],
+   [
+    "608x480",
+    2
+   ],
+   [
+    "912x720",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Ice-Cream_Shop_Designs",
+  "pack": "Ice-Cream_Shop_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Ice-Cream_Shop_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Ice-Cream_Shop_Designs/16x16/Ice_Cream_Shop_Design_preview.png",
+  "files": 12,
+  "bytes": 97647,
+  "kinds": {
+   "sprite": 9,
+   "preview": 3
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "192x160",
+    3
+   ],
+   [
+    "384x320",
+    3
+   ],
+   [
+    "576x480",
+    3
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Japanese_Interiors_Home_Designs",
+  "pack": "Japanese_Interiors_Home_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Japanese_Interiors_Home_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Japanese_Interiors_Home_Designs/16x16/Japanese_Home_1_preview_16x16.png",
+  "files": 9,
+  "bytes": 210909,
+  "kinds": {
+   "sprite": 6,
+   "preview": 3
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "304x214",
+    2
+   ],
+   [
+    "608x428",
+    2
+   ],
+   [
+    "912x642",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Museum_Designs",
+  "pack": "Museum_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Museum_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Museum_Designs/16x16/Museum_entrance_preview.png",
+  "files": 45,
+  "bytes": 1370707,
+  "kinds": {
+   "sprite": 30,
+   "preview": 15
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "256x160",
+    2
+   ],
+   [
+    "256x352",
+    2
+   ],
+   [
+    "256x528",
+    2
+   ],
+   [
+    "272x336",
+    2
+   ],
+   [
+    "320x272",
+    2
+   ],
+   [
+    "512x1056",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/Shooting_Range_Designs",
+  "pack": "Shooting_Range_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/Shooting_Range_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/Shooting_Range_Designs/16x16/Shooting_Range_Design_preview.png",
+  "files": 9,
+  "bytes": 82416,
+  "kinds": {
+   "sprite": 6,
+   "preview": 3
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "160x166",
+    2
+   ],
+   [
+    "320x332",
+    2
+   ],
+   [
+    "480x498",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "6_Home_Designs/TV_Studio_Designs",
+  "pack": "TV_Studio_Designs",
+  "section": "6_Home_Designs",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/6_Home_Designs/TV_Studio_Designs",
+  "preview": "last-take-assets/moderninteriors-win/6_Home_Designs/TV_Studio_Designs/16x16/Tv_Studio_Design_preview.png",
+  "files": 12,
+  "bytes": 89703,
+  "kinds": {
+   "sprite": 9,
+   "preview": 3
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "176x160",
+    3
+   ],
+   [
+    "352x320",
+    3
+   ],
+   [
+    "528x480",
+    3
+   ]
+  ]
+ },
+ {
+  "id": "Free_v2.2/Characters_free",
+  "pack": "Characters_free",
+  "section": "Free_v2.2",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free",
+  "preview": null,
+  "files": 33,
+  "bytes": 166686,
+  "kinds": {
+   "sprite": 33
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "RPGMAKERMV"
+  ],
+  "sheets": [],
+  "license": "\nFREE VERSION LICENSE:\n\nCAN:\nYOU CAN USE THE ASSET IN NON COMMERCIAL PROJECTS\nYOU CAN EDIT THE SPRITES AND USE THEM IN NON COMMERCIAL PROJECTS\n\nCAN'T:\nYOU CAN'T USE THE ASSET IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT THE SPRITES AND USE THEM IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT AND RESELL THE SPRITES",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Free Version (NON-COMMERCIAL ONLY)",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "384x32",
+    16
+   ],
+   [
+    "144x32",
+    4
+   ],
+   [
+    "192x32",
+    4
+   ],
+   [
+    "384x224",
+    4
+   ],
+   [
+    "64x32",
+    4
+   ],
+   [
+    "576x768",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "Free_v2.2/Interiors_free",
+  "pack": "Interiors_free",
+  "section": "Free_v2.2",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free",
+  "preview": null,
+  "files": 6,
+  "bytes": 570574,
+  "kinds": {
+   "sprite": 6
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "16x16",
+   "32x32",
+   "48x48"
+  ],
+  "sheets": [],
+  "license": "\nFREE VERSION LICENSE:\n\nCAN:\nYOU CAN USE THE ASSET IN NON COMMERCIAL PROJECTS\nYOU CAN EDIT THE SPRITES AND USE THEM IN NON COMMERCIAL PROJECTS\n\nCAN'T:\nYOU CAN'T USE THE ASSET IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT THE SPRITES AND USE THEM IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT AND RESELL THE SPRITES",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Free Version (NON-COMMERCIAL ONLY)",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "256x1424",
+    1
+   ],
+   [
+    "272x368",
+    1
+   ],
+   [
+    "512x2848",
+    1
+   ],
+   [
+    "544x736",
+    1
+   ],
+   [
+    "768x4272",
+    1
+   ],
+   [
+    "816x1104",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "Free_v2.2/Old",
+  "pack": "Old",
+  "section": "Free_v2.2",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old",
+  "preview": null,
+  "files": 24,
+  "bytes": 136217,
+  "kinds": {
+   "sprite": 9,
+   "sheet": 15
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "mv"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_1.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_16.png",
+    "width": 192,
+    "height": 224
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_2.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_3.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_9.png",
+    "width": 160,
+    "height": 160
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_1.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_16.png",
+    "width": 384,
+    "height": 448
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_2.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_3.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_9.png",
+    "width": 320,
+    "height": 320
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_1.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_16.png",
+    "width": 576,
+    "height": 672
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_2.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_3.png",
+    "width": 480,
+    "height": 480
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_9.png",
+    "width": 480,
+    "height": 480
+   }
+  ],
+  "license": "\nFREE VERSION LICENSE:\n\nCAN:\nYOU CAN USE THE ASSET IN NON COMMERCIAL PROJECTS\nYOU CAN EDIT THE SPRITES AND USE THEM IN NON COMMERCIAL PROJECTS\n\nCAN'T:\nYOU CAN'T USE THE ASSET IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT THE SPRITES AND USE THEM IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT AND RESELL THE SPRITES",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Free Version (NON-COMMERCIAL ONLY)",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "1152x96",
+    1
+   ],
+   [
+    "128x64",
+    1
+   ],
+   [
+    "144x384",
+    1
+   ],
+   [
+    "192x96",
+    1
+   ],
+   [
+    "384x32",
+    1
+   ],
+   [
+    "48x128",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "Free_v2.2/_loose",
+  "pack": "_loose",
+  "section": "Free_v2.2",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_Free_v2.2/Modern tiles_Free",
+  "preview": null,
+  "files": 3,
+  "bytes": 297568,
+  "kinds": {
+   "sprite": 1,
+   "data": 2
+  },
+  "formats": [
+   "png",
+   "txt"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "\nFREE VERSION LICENSE:\n\nCAN:\nYOU CAN USE THE ASSET IN NON COMMERCIAL PROJECTS\nYOU CAN EDIT THE SPRITES AND USE THEM IN NON COMMERCIAL PROJECTS\n\nCAN'T:\nYOU CAN'T USE THE ASSET IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT THE SPRITES AND USE THEM IN COMMERCIAL PROJECTS\nYOU CAN'T EDIT AND RESELL THE SPRITES",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Free Version (NON-COMMERCIAL ONLY)",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "1886x1792",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "Palettes/_loose",
+  "pack": "_loose",
+  "section": "Palettes",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win/Palettes",
+  "preview": null,
+  "files": 2,
+  "bytes": 3342,
+  "kinds": {
+   "sprite": 2
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "129x135",
+    1
+   ],
+   [
+    "43x45",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "RPG_Maker_Version/RPG_MAKER_MV",
+  "pack": "RPG_MAKER_MV",
+  "section": "RPG_Maker_Version",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV",
+  "preview": null,
+  "files": 425,
+  "bytes": 5805124,
+  "kinds": {
+   "data": 2,
+   "sheet": 44,
+   "sprite": 377,
+   "other": 2
+  },
+  "formats": [
+   "ase",
+   "png",
+   "txt"
+  ],
+  "subfolders": [
+   "Animated_Objects",
+   "Characters",
+   "Interiors",
+   "Others"
+  ],
+  "sheets": [
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Floors_2_TILESET_A2_.png",
+    "width": 768,
+    "height": 576
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Floors_TILESET_A2_.png",
+    "width": 768,
+    "height": 576
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 0_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 10_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 11_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 12_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 13_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 14_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 15_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 16_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 17_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 18_768x768_TILESETS_B_C_D_E_Bookcases.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 19_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 1_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 20_768x768_TILESETS_B_C_D_E_School_revamp.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 21_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 22_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 23_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 24_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   },
+   {
+    "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_MV/Interiors/Update order_unsorted (LEGACY)/Interiors 2_768x768_TILESETS_B_C_D_E.png",
+    "width": 768,
+    "height": 768
+   }
+  ],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "144x384",
+    271
+   ],
+   [
+    "768x768",
+    69
+   ],
+   [
+    "576x768",
+    13
+   ],
+   [
+    "288x576",
+    7
+   ],
+   [
+    "144x576",
+    4
+   ],
+   [
+    "144x192",
+    3
+   ]
+  ]
+ },
+ {
+  "id": "RPG_Maker_Version/RPG_MAKER_VX_ACE (WIP)",
+  "pack": "RPG_MAKER_VX_ACE (WIP)",
+  "section": "RPG_Maker_Version",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_VX_ACE (WIP)",
+  "preview": null,
+  "files": 37,
+  "bytes": 1206912,
+  "kinds": {
+   "sprite": 37
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "Theme_Sorter_VX_ACE"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "512x512",
+    29
+   ],
+   [
+    "384x384",
+    3
+   ],
+   [
+    "256x512",
+    2
+   ],
+   [
+    "256x160",
+    1
+   ],
+   [
+    "512x224",
+    1
+   ],
+   [
+    "512x480",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "RPG_Maker_Version/RPG_MAKER_XP",
+  "pack": "RPG_MAKER_XP",
+  "section": "RPG_Maker_Version",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version/RPG_MAKER_XP",
+  "preview": null,
+  "files": 36,
+  "bytes": 2431655,
+  "kinds": {
+   "sprite": 36
+  },
+  "formats": [
+   "png"
+  ],
+  "subfolders": [
+   "Characters"
+  ],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": [
+   [
+    "128x192",
+    18
+   ],
+   [
+    "256x1696",
+    2
+   ],
+   [
+    "256x1120",
+    1
+   ],
+   [
+    "256x1216",
+    1
+   ],
+   [
+    "256x1250",
+    1
+   ],
+   [
+    "256x160",
+    1
+   ]
+  ]
+ },
+ {
+  "id": "RPG_Maker_Version/_loose",
+  "pack": "_loose",
+  "section": "RPG_Maker_Version",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/Modern_Interiors_RPG_Maker_Version/Modern_Interiors_RPG_Maker_Version",
+  "preview": null,
+  "files": 2,
+  "bytes": 571,
+  "kinds": {
+   "data": 2
+  },
+  "formats": [
+   "txt"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ },
+ {
+  "id": "_root/_loose",
+  "pack": "_loose",
+  "section": "_root",
+  "library": "limezu-modern-interiors",
+  "path": "last-take-assets/moderninteriors-win",
+  "preview": null,
+  "files": 3,
+  "bytes": 694,
+  "kinds": {
+   "data": 3
+  },
+  "formats": [
+   "txt"
+  ],
+  "subfolders": [],
+  "sheets": [],
+  "license": "MODERN INTERIORS FULL VERSION LICENSE\n-\nYOU CAN:\n-Edit and use the asset in any commercial  or non commercial project \n-Use the asset in any commercial  or non commercial project\n-\nYOU CAN'T:\n- Resell or distribute the asset to others\n- Edit and resell the asset to others\n-\n- Credits required (limezu.itch.io)",
+  "redistributable": false,
+  "license_name": "LimeZu Modern Interiors - Full Version",
+  "credit_required": "limezu.itch.io",
+  "sprite_sizes": []
+ }
+]
