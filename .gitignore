@@ -1,65 +1,39 @@
 # ─────────────────────────────────────────────────────────────
-# This repo ships the CATALOG, not the art.
+# What ships here: the catalogue, plus the Kenney art that is
+# actually usable in a 2D browser game (CC0, redistributable).
 #
-# The actual asset binaries (~1.5 GB, 145k files) live only on
-# local machines. This repo carries the machine-readable index
-# so any Claude session can know exactly what art exists, where
-# it lives, and what it looks like — without cloning a gigabyte.
-#
-# To rehydrate the art locally, see README.md.
+# What does NOT ship: 3D model kits, and anything from LimeZu.
 # ─────────────────────────────────────────────────────────────
 
-# Kenney bundle — CC0, but 1.03 GB / 90,789 files. Not pushed.
-kenney/
+# ── Kenney sections deliberately not pushed ──
+# 3D assets: 606 MB of FBX/OBJ/GLB. Unusable in a canvas game and
+# two-thirds of the bundle's weight. Catalogued, not committed.
+kenney/3D assets/
+# Archive: superseded packs, mostly still zipped.
+kenney/Archive/
+# Early access: unfinished, churns.
+kenney/Early access/
 
-# Original installer + bundle archives (~800 MB). Not pushed.
-_source-zips/
-
-# LimeZu "Modern Interiors" — PAID asset. Its licence explicitly
-# forbids redistribution ("YOU CAN'T: Resell or distribute the
-# asset to others"). Metadata is catalogued; art must never be
-# committed here. These rules are a hard safety net.
+# ── LimeZu "Modern Interiors" — NEVER COMMIT ──
+# Paid asset. Its licence: "YOU CAN'T: Resell or distribute the
+# asset to others". Metadata is catalogued; the art must never be
+# published here, from any machine, in any branch.
 modern-interiors/
 limezu/
 **/moderninteriors-win/
 **/Modern_Interiors_RPG_Maker_Version/
 **/Modern_Interiors_Free_v2.2/
 
-# Sliced output is regenerable from the source sheets — not pushed.
-sliced/
+# ── Original download archives (~800 MB of installers) ──
+_source-zips/
 
-# ── Belt-and-braces: no raw media of any kind outside catalog/previews ──
+# ── Redundant bundles/installers wherever they appear ──
 *.zip
 *.rar
 *.7z
 *.exe
 *.AppImage
-*.fbx
-*.obj
-*.mtl
-*.glb
-*.gltf
-*.stl
-*.dae
-*.blend
-*.ogg
-*.wav
-*.mp3
-*.flac
-*.psd
-*.ai
-*.eps
-*.swf
-*.pdf
-
-# Images are allowed ONLY under catalog/previews/ (CC0 Kenney previews).
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-*.svg
-!catalog/previews/**/*.png
+*.unitypackage
 
 # ── OS / editor metadata ──
 Thumbs.db
