@@ -5,10 +5,16 @@ sprite instead of generating one.
 
 **297 packs · 144,324 files · 1.15 GB** across two libraries.
 
-> **This repo contains the catalogue, not the art.** The binaries live on local
-> machines. What is committed here is a complete, searchable index — enough for
-> any session on any machine to know exactly what exists, what it looks like, and
-> where it sits on disk. See [Rehydrating the art](#rehydrating-the-art).
+> **Browse it on any device:** **https://eturner58.github.io/game-assets/**
+>
+> The usable art is committed here, not just catalogued. 60,679 Kenney files
+> (CC0) plus 6,691 sliced tiles are in the repo, so a clone — or the Pages site
+> above — gives you the actual pixels, not only the index.
+>
+> **Two things are deliberately not here.** Kenney's 3D kits, Archive and Early
+> access (669 MB of FBX/OBJ you cannot use in a canvas game), and **all LimeZu
+> art** — its licence forbids redistribution, so only its metadata ships. Both
+> are recoverable locally; see [Rehydrating the rest](#rehydrating-the-rest).
 
 ---
 
@@ -16,7 +22,7 @@ sprite instead of generating one.
 
 | I want to... | Do this |
 |---|---|
-| **Browse visually** | Open `catalog/index.html` — no server needed |
+| **Browse visually** | [eturner58.github.io/game-assets](https://eturner58.github.io/game-assets/) — or open `catalog/index.html` locally |
 | **Find a pack programmatically** | Read `catalog/library.json` (297 entries, ~1 MB) |
 | **Find an individual file** | Grep `catalog/files.jsonl` (90,789 rows) |
 | **See the rollup** | `catalog/library_summary.md` |
@@ -112,17 +118,19 @@ were sliced from each pack's own documented grid (never a guessed one) into
 | Roguelike Dungeon / Interior / Characters | 16px, 1px margin | 1,449 |
 
 Fully transparent tiles are dropped. `sliced/sliced_manifest.json` records the grid
-and counts per sheet. Output is regenerable and not committed.
+and counts per sheet. The tiles are committed, and also regenerable from source.
 
 ---
 
-## Rehydrating the art
+## Rehydrating the rest
 
-The catalogue is committed; the binaries are not. On a machine without them:
+The 2D art is committed. Two things are not, and need restoring locally:
 
-1. **Kenney** — get *Game Assets All-in-1* (v3.7.0 is what this catalogue was built
-   from) from [kenney.nl](https://kenney.nl/) or the Kenney itch.io page, and extract
-   to `Games/assets/kenney/` so paths match the `path` field in the catalogue. CC0.
+1. **Kenney 3D / Archive / Early access** — the 2D art is already in this repo; only
+   these sections were left out. Get *Game Assets All-in-1* (v3.7.0 is what this
+   catalogue was built from) from [kenney.nl](https://kenney.nl/) or the Kenney
+   itch.io page and extract over `Games/assets/kenney/` so paths match the
+   catalogue's `path` field. CC0.
 2. **LimeZu** — a paid pack from
    [limezu.itch.io/moderninteriors](https://limezu.itch.io/moderninteriors). Restore
    from your own purchase to `Games/Last Take/assets/`. Do not redistribute it.
@@ -158,8 +166,8 @@ Games/assets/
 │   ├── files_limezu.jsonl   LimeZu, 53,535 rows
 │   ├── previews/            253 pack thumbnails (CC0)
 │   └── *.py                 the generators
-├── kenney/                  ← NOT committed (984 MB)
-├── sliced/                  ← NOT committed (regenerable)
+├── kenney/                  ← 2D/UI/Icons/Audio committed; 3D+Archive local only
+├── sliced/                  ← committed (6,691 tiles)
 └── _source-zips/            ← NOT committed (800 MB of originals)
 ```
 
