@@ -6,9 +6,19 @@
 # ─────────────────────────────────────────────────────────────
 
 # ── Kenney sections deliberately not pushed ──
-# 3D assets: 606 MB of FBX/OBJ/GLB. Unusable in a canvas game and
-# two-thirds of the bundle's weight. Catalogued, not committed.
-kenney/3D assets/
+# 3D assets: Kenney ships every model in SIX formats. Only glTF/GLB is
+# loadable by web engines, so that is what we publish -- along with the
+# PNG textures the models reference. The other five formats are pure
+# redundancy here (409 MB) and stay local; the catalogue lists them all.
+# NB: the DIRECTORY must not be excluded -- git cannot re-include a file
+# inside an excluded directory, so the exclusions are per-format.
+kenney/3D assets/**/*.fbx
+kenney/3D assets/**/*.obj
+kenney/3D assets/**/*.mtl
+kenney/3D assets/**/*.dae
+kenney/3D assets/**/*.stl
+kenney/3D assets/**/*.blend
+kenney/3D assets/**/*.mat
 # Archive: superseded packs, mostly still zipped.
 kenney/Archive/
 # Early access: unfinished, churns.
