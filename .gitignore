@@ -47,3 +47,9 @@ desktop.ini
 scratchpad/
 *.tmp
 *.log
+
+# Kenney's own bundle index — it links the full 1 GB bundle including the
+# 3D sections we don't publish, so it renders half-broken here. We ship
+# catalog/index.html instead.
+kenney/Overview.html
+kenney/Readme.html
