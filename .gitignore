@@ -53,3 +53,6 @@ scratchpad/
 # catalog/index.html instead.
 kenney/Overview.html
 kenney/Readme.html
+
+# Windows internet shortcuts from the bundle
+*.url
